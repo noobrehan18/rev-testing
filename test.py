@@ -1,3 +1,2 @@
-def divide(a, b):
-    return a / b
-print("helloworkd");
+def add(a, b):
+    return a + b
