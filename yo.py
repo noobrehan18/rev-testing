@@ -1,5 +1,1 @@
-def divide(a, b):
-    return a / b
-
-
-print("hello wolr");
+api key="dhhdheyg2yh2vty2"
